@@ -1,23 +1,15 @@
 ###################
-What is CodeIgniter
+tugas web lanjut
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+dimas aditya 2023018065
+haris kamaludin azizi 2023018007
 
 *******************
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
-
+Repositori ini berisi website manajemen blog sederhana yang diimplementasikan menggunakan konsep MVC (Model-View-Controller) pada framework CodeIgniter 3. Proyek ini dikerjakan dengan menggunakan Git untuk memenuhi Tugas Kelompok Pertemuan 4.
 **************************
 Changelog and New Features
 **************************
